@@ -1,1 +1,1 @@
-# sonar-tomca-docker
+# sonar-tomcat-docker
